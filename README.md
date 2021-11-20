@@ -6,7 +6,12 @@
 Here are some ideas to get you started:
 -->
 
-<img align="right" alt="Awesome GitHub Profile Readme" src="assets/computer-illustration.png" width="408" height="318"> </img>
+<img align="right"
+    alt="Awesome GitHub Profile Readme"
+    src="assets/computer-illustration.png"
+    width="408"
+    height="318">
+</img>
 
 - 🔭 I’m currently working on cool stuff
 - 🌱 I’m currently learning new programming languages
