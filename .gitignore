@@ -1,1 +1,2 @@
-*.code-workspace
+**.code-workspace
+**_site
