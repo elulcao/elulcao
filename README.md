@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [elulcao@icloud.com](elulcao@icloud.com)
 - ⚡ Fun fact: sometimes they call me NANDy
 
+<!--
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/elulcao)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/elulcao/)
+-->
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/elulcao)
