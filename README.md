@@ -8,6 +8,10 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/daniel-carvallo"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
+<p align="left">
+  <a href="https://github.com/elulcao/progress-bar"><img src="https://img.shields.io/github/stars/elulcao/progress-bar.svg?label=Go&style=social" alt="progress-bar"></a>
+</p>
+
 <img align="right"
     alt="Awesome GitHub Profile Readme"
     src="assets/computer-illustration.png"
