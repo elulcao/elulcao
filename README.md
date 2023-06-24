@@ -40,6 +40,11 @@
 **Blog posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Get next rune with Go](https://danielcarvallog.medium.com/get-next-rune-with-go-6a3e00b550ee?source=rss-f8f57fa52bb5------2)
+- [Generics in Go, insert in a Binary Tree](https://danielcarvallog.medium.com/generics-in-go-insert-in-a-binary-tree-d76d55d7c7fa?source=rss-f8f57fa52bb5------2)
+- [Progress Bar With Go](https://danielcarvallog.medium.com/progress-bar-with-go-6fe5b4fef01d?source=rss-f8f57fa52bb5------2)
+- [Construct a Quad-Tree [Netflix inspiration]](https://danielcarvallog.medium.com/construct-a-quad-tree-netflix-inspiration-802690fd342b?source=rss-f8f57fa52bb5------2)
+- [Longest Common Substring/Subsequence [DP Problems]](https://danielcarvallog.medium.com/longest-common-substring-subsequence-c3613376733a?source=rss-f8f57fa52bb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
