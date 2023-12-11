@@ -6,6 +6,9 @@
     height="200px">
 </img>
 
+I ❤ Open Source. 
+I ❤ [Vim](https://www.vim.org/) and [Go](https://golang.org).
+
 **Contanct**
 
 <p align="left">
